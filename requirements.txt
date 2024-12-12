@@ -4,6 +4,7 @@ contourpy==1.1.1
 cycler==0.12.1
 flask==3.0.3
 fonttools==4.55.3
+gunicorn==23.0.0
 importlib-metadata==8.5.0
 importlib-resources==6.4.5
 itsdangerous==2.2.0
